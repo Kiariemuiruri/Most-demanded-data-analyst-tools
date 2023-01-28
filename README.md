@@ -1,6 +1,6 @@
 # Most-demanded-data-analysis-tools
  
- This project is built by creating a data pipeline that collects data of job posts from timesjobs.com.
+ This project is built by creating a data pipeline that collects data of job posts from timesjobs.com
  Data is collected by use of a web scrap code and then links the data to jupyter notebook for analysis.
  
  ## Reproducible code
